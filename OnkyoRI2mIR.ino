@@ -10,20 +10,20 @@
 
     pin3 ---- (x) infrared LED ---[R1 = 330 OHM] ---------- GND
 
-    pin4 ---- o ----[R2 = 10 K OHM]---------------------- GND
-    |
-    |
-    ...
-    |
-    |
-    o Onkyo Amplifier RI port (middle cable)
+    pin4 ---- o ----[R2 = 10 K OHM]------------------------ GND
+              |
+              |
+              ...
+              |
+              |
+              o Onkyo Amplifier RI port (middle cable)
 
 
     Optionally, connect pin2 to a pushbutton (triggers "STOP")
 
                  /         
                 / 
-    pin2 ---- v     ------[R3 = 330 OHM] ---------- GND
+    pin2 ---- v     ------[R3 = 330 OHM] ------------------ GND
 
 
     Recommended: connect Anduino GND to Amplifier GND 
