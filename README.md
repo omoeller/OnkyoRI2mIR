@@ -44,3 +44,12 @@ Optionally, connect pin2 to a pushbutton (triggers "STOP", for debugging)
                 / 
     pin2 ---- v     ------[R3 = 330 OHM] ------------------ GND
 </pre>
+
+## Disclaimer
+
+THIS CODE IS FREE OF ANY WARRANTIES, USE (AND MODIFY) IT AT YOUR OWN RISK.
+
+I realize that it is quite simplistic and specific (I'm new to Arduino programming); it solves a simple problem by simple means.
+As long as you take care with the resitors, nothing bad will happen to your hardware.
+ 
+Contact me if you have suggestions for improvement.
